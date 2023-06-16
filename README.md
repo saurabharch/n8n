@@ -39,7 +39,9 @@ changes [here](https://github.com/n8n-io/n8n/blob/master/packages/cli/BREAKING-C
 You can try n8n without installing it using npx. You must have [Node.js](https://nodejs.org/en/) installed. 
 From the terminal, run:
 
-`npx n8n`
+```shell
+npx n8n
+```
 
 This command will download everything that is needed to start n8n. You can then access n8n and start building workflows by opening [http://localhost:5678](http://localhost:5678).
 
