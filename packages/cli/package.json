@@ -108,7 +108,7 @@
     "@n8n_io/ai-assistant-sdk": "catalog:",
     "@n8n_io/license-sdk": "2.22.0",
     "@oclif/core": "4.0.7",
-    "@rudderstack/rudder-sdk-node": "2.1.4",
+    "@rudderstack/rudder-sdk-node": "2.1.9",
     "@sentry/node": "catalog:",
     "aws4": "1.11.0",
     "axios": "catalog:",
